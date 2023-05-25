@@ -17,6 +17,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
+            android:id="@+id/App_title_text"
             android:textSize="@dimen/_20sdp"
             android:text="Category"
             android:textColor="@color/white"/>

@@ -8,9 +8,11 @@
         android:id="@+id/Main_image"></ImageView>
 <TextView
     android:layout_width="@dimen/_150sdp"
-    android:layout_height="@dimen/_150sdp"
-    android:text="123"
+    android:layout_height="wrap_content"
+    android:text="Tap Here"
     android:gravity="center"
-    android:textSize="@dimen/_25sdp"
+    android:textColor="#14EAD6"
+    android:layout_centerVertical="true"
+    android:textSize="@dimen/_15sdp"
     android:id="@+id/name_text"></TextView>
 </RelativeLayout>
